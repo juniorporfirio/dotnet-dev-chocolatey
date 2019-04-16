@@ -3,8 +3,6 @@
 :: Navegadores
 
 choco install googlechrome -y
-choco install firefox -y
-
 
 :: Docker
 
@@ -20,7 +18,6 @@ choco install sourcetree -y
 choco install visualstudio2019community -y
 
 :: SQL Server Express
-choco install sqlserverlocaldb -y --allow-empty-checksums
 choco install sql-server-management-studio -y
 choco install sql-server-express -y
 
@@ -31,8 +28,15 @@ npm install -g angular-cli
 :: DotNet Packages
 REM choco install dotnetcore-runtime -y
 choco install dotnetcore -y
-choco install dotnetcore-vs -pre -y
+
 
 :: Utilitarios
 choco install cmder -y
 choco install postman -y
+choco install zoomit -y
+
+:: Música
+choco install spotify -y
+
+::Amazon
+choco install awscli -y
