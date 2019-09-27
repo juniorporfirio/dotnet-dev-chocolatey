@@ -1,2 +1,6 @@
 # Kit de desenvolvimento dotnet - chocolatey
-Surgiu a necessidade de criar meu kit de ferramentas para desenvolvimento para configurar uma nova maquina, então pensei, porque não utilizar o chocolatey para organizar os instalaladores ? Então realizei a configuração e estou compartilhando caso alguém deseje aproveitar esse kit, sinta-se a vontade e divirta-se.
+
+Que tal configurar em um unico arquivo os seus programas favoritos e instalar em apenas um comando?
+Com chocolatey você pode fazer isto, que fantastico !!! :sunglasses:
+
+Segue meu kit de programas para desenvolvimento, caso deseje utilizar fique a vontade. :+1:
